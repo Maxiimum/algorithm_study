@@ -29,6 +29,7 @@ Tools : Git, GitHub, GitKraken, DBeaver, Postman<br>
 
 #### (2) 카페 검색 - 키워드 검색
 <img src="https://blog.kakaocdn.net/dn/b7iEKK/btspsFXA7UM/AKT6NA2x7ADNqKZSak27B1/img.gif" style="width: 60%;">
+![orignal_q100](https://github.com/Maxiimum/algorithm_study/assets/80867166/bdc7955c-3721-444f-b054-850a7d2e2a49)
 
 ### 2. 테마 검색
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FvYZGJ%2FbtspmhiVLgl%2FwCTsBrR9XOZCjSlgjhdWF1%2Fimg.png" style="width: 60%;">
