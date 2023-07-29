@@ -24,7 +24,7 @@ Tools : Git, GitHub, GitKraken, DBeaver, Postman<br>
 
 ## 구현 기능
 ### 1. 카페 검색
-#### (1) 카페 검색 - 지역 검색
+#### (1) 카페 검색 - 키워드 검색
 <img src="https://blog.kakaocdn.net/dn/KF3mo/btsph90NulZ/TNt71ds8HdrO0ogDJhnxLk/img.gif" style="width: 60%;">
 
 #### (2) 카페 검색 - 키워드 검색
