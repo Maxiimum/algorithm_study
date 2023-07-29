@@ -24,12 +24,11 @@ Tools : Git, GitHub, GitKraken, DBeaver, Postman<br>
 
 ## 구현 기능
 ### 1. 카페 검색
-#### (2) 카페 검색 - 키워드 검색
+#### (1) 카페 검색 - 지역 검색
 <img src="https://blog.kakaocdn.net/dn/KF3mo/btsph90NulZ/TNt71ds8HdrO0ogDJhnxLk/img.gif" style="width: 60%;">
 
 #### (2) 카페 검색 - 키워드 검색
-<img src="![orignal_q100](https://github.com/Maxiimum/algorithm_study/assets/80867166/bdc7955c-3721-444f-b054-850a7d2e2a49)" style="width: 60%;">
-
+<img src="https://blog.kakaocdn.net/dn/b7iEKK/btspsFXA7UM/AKT6NA2x7ADNqKZSak27B1/img.gif" style="width: 60%;">
 
 ### 2. 테마 검색
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FvYZGJ%2FbtspmhiVLgl%2FwCTsBrR9XOZCjSlgjhdWF1%2Fimg.png" style="width: 60%;">
@@ -53,3 +52,4 @@ Tools : Git, GitHub, GitKraken, DBeaver, Postman<br>
 
 #### (4) 리뷰 조회
 <img src="https://github.com/maemae22/escape-room/assets/101652279/528c7c80-e32d-438a-8634-cf34529bed08" style="width: 50%;">
+
